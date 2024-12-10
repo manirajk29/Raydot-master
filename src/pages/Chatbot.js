@@ -4,6 +4,10 @@ function Chatbot() {
     return (
         <div className="search-container">
             <input class="search-input" type="text" placeholder='search' />
+            <div>
+                
+            </div>
+
         </div>
     )
 }
